@@ -1,4 +1,4 @@
-### About me🧑:
+![image](https://github.com/user-attachments/assets/94b35675-66d1-4462-98b0-3f5c6f2df396)### About me🧑:
 I am Computer and Telecommunications Engineering student at AGH.<br/>
 I am interested in learning DSP and web development and would 💖 to grow my knowledge in these Technologies.
 
@@ -7,6 +7,7 @@ I am interested in learning DSP and web development and would 💖 to grow my kn
 - 🔭 I’m currently working on Full-stack Web Development & Android Development.
 - 🌱 I’m currently learning about Digital Signal Processing.
 - ⚡ Fun fact: I 💖 to code 24x7.
+- ⚔️ I 💖 fantasy, sci-fi and weightlifting 🏋️.
 
 <br/>
 
