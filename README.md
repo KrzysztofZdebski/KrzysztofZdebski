@@ -25,7 +25,7 @@ Languages and Tools🛠:
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1024px-Bootstrap_logo.svg.png"></code>
 <code><img height="40" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
-<code><img height="40" src="https://e7.pngegg.com/pngimages/46/626/png-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template.png"></code>
+<code><img height="40" src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000"></code>
 <code><img height="40" src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000"></code>
 <code><img height="40" src="https://img.icons8.com/?size=100&id=r5Y16PcDkoWI&format=png&color=000000"></code>
 <code><img height="40" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000"></code>
