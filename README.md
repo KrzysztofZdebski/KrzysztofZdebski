@@ -62,11 +62,11 @@ Languages and Tools🛠:
 ### Github Activity ✔:
 
 <a href="https://github.com/KrzysztofZdebski">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davekibh&theme=tokyonight" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrzysztofZdebski&theme=tokyonight" />
   </a>
 
 <a href="https://github.com/KrzysztofZdebski">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Davekibh&show_icons=true&theme=tokyonight&line_height=27" alt="Dave's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=KrzysztofZdebski&show_icons=true&theme=tokyonight&line_height=27" alt="Dave's github stats"/>
 </a>
 
 <br/>
@@ -75,28 +75,20 @@ Languages and Tools🛠:
 
 ### My Projects ✨:
   
-<a href="https://github.com/Davekibh/Background-generator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Background-generator&theme=tokyonight" />
+<a href="https://github.com/KrzysztofZdebski/Workout_Tracker">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KrzysztofZdebski&repo=Workout_Tracker&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/Davekibh/robofriends">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=robofriends&theme=tokyonight" />
+<a href="https://github.com/KrzysztofZdebski/ProjektPO1">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KrzysztofZdebski&repo=ProjektPO1&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/Davekibh/Picture-Sharing-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Picture-Sharing-app&theme=tokyonight" />
+<a href="https://github.com/KrzysztofZdebski/PassManager">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KrzysztofZdebski&repo=PassManager&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/Davekibh/Chat-app">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Chat-app&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/Davekibh/Quiz-App">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Quiz-App&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/Davekibh/Quiz-Admin-App">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Quiz-Admin-App&theme=tokyonight" />
+<a href="https://github.com/KrzysztofZdebski/Pokemon_Arena">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KrzysztofZdebski&repo=Pokemon_Arena&theme=tokyonight" />
 </a>
 
 ### My WakaTime Stats 📊:
