@@ -98,5 +98,5 @@ Languages and Tools🛠:
 
 </div>
 -----
-Credits: [Davekibh](https://github.com/KrzysztofZdebski)
+Credits: [KrzysztofZdebski](https://github.com/KrzysztofZdebski)
 
