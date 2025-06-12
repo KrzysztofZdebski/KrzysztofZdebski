@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/94b35675-66d1-4462-98b0-3f5c6f2df396)### About me🧑:
+### About me🧑:
 I am Computer and Telecommunications Engineering student at AGH.<br/>
 I am interested in learning DSP and web development and would 💖 to grow my knowledge in these Technologies.
 
