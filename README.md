@@ -87,8 +87,8 @@ Languages and Tools🛠:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KrzysztofZdebski&repo=PassManager&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/KrzysztofZdebski/Pokemon_Aena">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KrzysztofZdebski&repo=Pokemon_Arena&theme=tokyonight" />
+<a href="https://github.com/KrzysztofZdebski/Pokemon_Arena">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KrzysztofZdebski&repo=Pokemon_Aren&theme=tokyonight" />
 </a>
 
 ### My WakaTime Stats 📊:
