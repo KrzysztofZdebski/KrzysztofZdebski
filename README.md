@@ -4,7 +4,7 @@ I am interested in learning DSP and web development and would 💖 to grow my kn
 
 <img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
 
-- 🔭 I’m currently working on Full-stack Web Development & Android Development.
+- 🔭 I’m currently working on Full-stack Web Development.
 - 🌱 I’m currently learning about Digital Signal Processing.
 - ⚡ Fun fact: I 💖 to code 24x7.
 - ⚔️ I 💖 fantasy, sci-fi and weightlifting 🏋️.
