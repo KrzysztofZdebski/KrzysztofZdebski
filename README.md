@@ -77,7 +77,7 @@ Languages and Tools🛠:
 ### My Projects ✨:
   
 <a href="https://github.com/KrzysztofZdebski/Workout_Tracker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KrzysztofZdebski&repo=Workout_Tracker" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KrzysztofZdebski&repo=Workout_Tracker&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/KrzysztofZdebski/ProjektPO1">
