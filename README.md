@@ -76,7 +76,21 @@ Languages and Tools🛠:
 
 ### My Projects ✨:
   
+<a href="https://github.com/KrzysztofZdebski/Workout_Tracker">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KrzysztofZdebski&repo=Workout_Tracker&theme=tokyonight" />
+</a>
 
+<a href="https://github.com/KrzysztofZdebski/ProjektPO1">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KrzysztofZdebski&repo=ProjektPO1&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/KrzysztofZdebski/PassManager">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KrzysztofZdebski&repo=PassManager&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/KrzysztofZdebski/Pokemon_Arena">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KrzysztofZdebski&repo=Pokemon_Arena&theme=tokyonight" />
+</a>
 
 <div align="center">
   
