@@ -63,11 +63,11 @@ Languages and Tools🛠:
 ### Github Activity ✔:
 
 <a href="https://github.com/KrzysztofZdebski">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrzysztofZdebski&theme=tokyonight" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrzysztofZdebski&theme=dark" />
   </a>
 
 <a href="https://github.com/KrzysztofZdebski">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=KrzysztofZdebski&show_icons=true&theme=tokyonight&line_height=27" alt="Dave's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=KrzysztofZdebski&show_icons=true&theme=dark&line_height=27" alt="Dave's github stats"/>
 </a>
 
 <br/>
@@ -77,19 +77,19 @@ Languages and Tools🛠:
 ### My Projects ✨:
   
 <a href="https://github.com/KrzysztofZdebski/Workout_Tracker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KrzysztofZdebski&repo=Workout_Tracker&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KrzysztofZdebski&repo=Workout_Tracker&theme=dark" />
 </a>
 
 <a href="https://github.com/KrzysztofZdebski/ProjektPO1">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KrzysztofZdebski&repo=ProjektPO1&theme=tokyonight" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KrzysztofZdebski&repo=ProjektPO1&theme=dark" />
 </a>
 
 <a href="https://github.com/KrzysztofZdebski/PassManager">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KrzysztofZdebski&repo=PassManager&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KrzysztofZdebski&repo=PassManager&theme=dark" />
 </a>
 
 <a href="https://github.com/KrzysztofZdebski/Pokemon_Arena">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KrzysztofZdebski&repo=Pokemon_Arena&theme=tokyonight" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KrzysztofZdebski&repo=Pokemon_Arena&theme=dark" />
 </a>
 
 <div align="center">
