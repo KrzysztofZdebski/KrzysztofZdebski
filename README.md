@@ -33,7 +33,7 @@ Languages and Tools🛠:
 <code><img height="40" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000"></code>
 <code><img height="40" src="https://img.icons8.com/?size=100&id=ewGOClUtmFX4&format=png&color=000000"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png"></code>
-<code><img height="40" src="https://cdn.prod.website-files.com/6047a9e35e5dc54ac86ddd90/63064ea203056632171dfaa2_43c017db.png"></code>
+<code><img height="40" src="https://img.favpng.com/6/6/15/elixir-functional-programming-programming-language-erlang-png-favpng-N4PYDUM9gbXqBSRiVZMLGmUh4.jpg"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/en/1/1e/Phoenix_Framework_Logo.svg"></code>
 
 </details>
