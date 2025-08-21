@@ -101,6 +101,4 @@ Languages and Tools🛠:
 ### Show ❤️ by 🌟 my [repositories](https://github.com/KrzysztofZdebski?tab=repositories)!
 
 </div>
------
-Credits: [KrzysztofZdebski](https://github.com/KrzysztofZdebski)
 
