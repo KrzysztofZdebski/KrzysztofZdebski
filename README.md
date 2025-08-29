@@ -88,7 +88,7 @@ Languages and Tools🛠:
 </a>
 
 <a href="https://github.com/KrzysztofZdebski/PassManager">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KrzysztofZdebski&repo=PassManager&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KrzysztofZdebski&repo=AutoSoundcore&theme=dark" />
 </a>
 
 <a href="https://github.com/KrzysztofZdebski/Pokemon_Arena">
