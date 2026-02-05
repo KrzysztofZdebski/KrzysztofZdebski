@@ -35,11 +35,3 @@ Languages and Tools🛠:
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png"></code>
 <code><img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/50cc836d-c54b-4586-a936-ff7f79943384" /></code>
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/en/1/1e/Phoenix_Framework_Logo.svg"></code>
-
-<div align="center">
-  
-
-### Show ❤️ by 🌟 my [repositories](https://github.com/KrzysztofZdebski?tab=repositories)!
-
-</div>
-
