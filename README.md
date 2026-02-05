@@ -36,65 +36,6 @@ Languages and Tools🛠:
 <code><img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/50cc836d-c54b-4586-a936-ff7f79943384" /></code>
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/en/1/1e/Phoenix_Framework_Logo.svg"></code>
 
-</details>
-
----
-
-<details open="True">
-<summary> Connect with me🤝: </summary>  
-
-<br/>
-
-<a href="https://github.com/KrzysztofZdebski">
-  <img align="left" alt="Krzysztof's Github" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
-</a>
-
-<a href="https://www.facebook.com/kryzys.onek">
-  <img align="left" alt="Krzysztof's Facebook" width="22px" src="https://img.icons8.com/?size=100&id=13912&format=png&color=000000" />
-</a>
-
-<a href="https://www.linkedin.com/in/krzysztof-zdebski-104a902ba/">
-  <img align="left" alt="Krzysztof's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
-</a>
-
-<br/>
-
-</details>
-
----
-
-### Github Activity ✔:
-
-<a href="https://github.com/KrzysztofZdebski">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrzysztofZdebski&theme=dark" />
-  </a>
-
-<a href="https://github.com/KrzysztofZdebski">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=KrzysztofZdebski&show_icons=true&theme=dark&line_height=27" alt="Dave's github stats"/>
-</a>
-
-<br/>
-<br/>
-<br/>
-
-### My Projects ✨:
-  
-<a href="https://github.com/KrzysztofZdebski/Workout_Tracker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KrzysztofZdebski&repo=Workout_Tracker&theme=dark" />
-</a>
-
-<a href="https://github.com/KrzysztofZdebski/ProjektPO1">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KrzysztofZdebski&repo=ProjektPO1&theme=dark" />
-</a>
-
-<a href="https://github.com/KrzysztofZdebski/PassManager">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KrzysztofZdebski&repo=AutoSoundcore&theme=dark" />
-</a>
-
-<a href="https://github.com/KrzysztofZdebski/Pokemon_Arena">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KrzysztofZdebski&repo=Pokemon_Arena&theme=dark" />
-</a>
-
 <div align="center">
   
 
