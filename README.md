@@ -7,10 +7,6 @@ I am interested in learning DSP and web development and would 💖 to grow my kn
 - ⚡ Fun fact: I 💖 to code 24x7.
 - ⚔️ I 💖 fantasy, sci-fi and weightlifting 🏋️.
 
-<br/>
-
----
-
 <details open="True">
 <summary>
 Languages and Tools🛠:
