@@ -12,7 +12,7 @@ I am interested in learning DSP and web development and would 💖 to grow my kn
 Languages and Tools🛠:
 </summary>
   <br/>
-<code><img height="40" src="https://miro.medium.com/1*eAO0V-jmx9_DaZdtVbs1Gw.png"></code>
+<code><img height="40" src="https://e7.pngegg.com/pngimages/340/226/png-clipart-purple-and-white-logo-c-computer-programming-software-development-programmer-marklogic-coder-miscellaneous-purple.png"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/unity-69.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
